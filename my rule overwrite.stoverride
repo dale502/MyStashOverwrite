@@ -1,6 +1,12 @@
 name: my在线规则覆写
 rules:
- - DOMAIN-SUFFIX,googleapis.com,🌏 国外网站
+ - DOMAIN-SUFFIX,loggly.com,🌏 国外网站
+ - DOMAIN-SUFFIX,segment.com,🌏 国外网站
+ - DOMAIN-SUFFIX,intercom.io,🌏 国外网站
+ - DOMAIN-SUFFIX,intercomcdn.com,🌏 国外网站
+ - DOMAIN-SUFFIX,amplitude.com,🌏 国外网站
+ - DOMAIN-SUFFIX,amazonaws.com,🌏 国外网站
+ - DOMAIN-KEYWORD,notion,🌏 国外网站
  - DOMAIN-SUFFIX,notion.so,🌏 国外网站
  - DOMAIN-SUFFIX,nearest-media-region.l.chime.aws,🌏 国外网站
  - DOMAIN-SUFFIX,slack.com,🌏 国外网站

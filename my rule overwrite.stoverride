@@ -15,11 +15,10 @@ rules:
     - DOMAIN-SUFFIX,tana.inc,🌏 国外网站
     - DOMAIN-SUFFIX,firebasedatabase.app,🌏 国外网站
     - DOMAIN-SUFFIX,openai.com,🌏 国外网站
-    - DOMAIN-SUFFIX,dida365.com,🌏 国内网站
-    - DOMAIN-SUFFIX,olevod.com,🌏 国内网站
     - DOMAIN-SUFFIX,rsms.me,🌏 国外网站
     - DOMAIN-SUFFIX,sentry.io,🌏 国外网站
     - DOMAIN-SUFFIX,transcend.io,🌏 国外网站
+    - DOMAIN-SUFFIX,dida365.com,🌏 国内网站
 
     - DOMAIN-KEYWORD,notion,🌏 国外网站
     - DOMAIN-KEYWORD,logseq,🌏 国外网站

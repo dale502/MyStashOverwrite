@@ -16,4 +16,5 @@ rules:
     - DOMAIN-SUFFIX,tana.inc,🌏 国外网站
     - DOMAIN-SUFFIX,europe-west1.firebasedatabase.app,🌏 国外网站
     - DOMAIN-SUFFIX,openai.com,🌏 国外网站
+    - DOMAIN-SUFFIX,dida365.com,🌏 国内网站
     - DOMAIN-SUFFIX,olevod.com,🌏 国内网站

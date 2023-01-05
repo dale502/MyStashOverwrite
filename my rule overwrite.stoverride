@@ -1,5 +1,20 @@
 name: my在线规则覆写
 rules:
+    - DOMAIN-KEYWORD,notion,🌏 国外网站
+    - DOMAIN-KEYWORD,logseq,🌏 国外网站
+    - DOMAIN-KEYWORD,matomo,🌏 国外网站
+    - DOMAIN-KEYWORD,obsidian,🌏 国外网站
+
+    - DOMAIN-KEYWORD,-spotify-com,🌏 国内网站
+    - DOMAIN-KEYWORD,spotify.com,🌏 国内网站
+    - DOMAIN-SUFFIX,pscdn.co,🌏 国内网站
+    - DOMAIN-SUFFIX,scdn.co,🌏 国内网站
+    - DOMAIN-SUFFIX,spoti.fi,🌏 国内网站
+    - DOMAIN-SUFFIX,spotify.com,🌏 国内网站
+    - DOMAIN-SUFFIX,spotifycdn.net,🌏 国内网站
+    - DOMAIN-SUFFIX,spotilocal.com,🌏 国内网站
+    - IP-CIDR,35.186.224.47/32,🌏 国内网站,no-resolve
+
     - DOMAIN-SUFFIX,googleapis.com,🌏 国外网站
     - DOMAIN-SUFFIX,loggly.com,🌏 国外网站
     - DOMAIN-SUFFIX,segment.com,🌏 国外网站
@@ -7,20 +22,14 @@ rules:
     - DOMAIN-SUFFIX,intercomcdn.com,🌏 国外网站
     - DOMAIN-SUFFIX,amplitude.com,🌏 国外网站
     - DOMAIN-SUFFIX,amazonaws.com,🌏 国外网站
-    - DOMAIN-SUFFIX,notion.so,🌏 国外网站
     - DOMAIN-SUFFIX,nearest-media-region.l.chime.aws,🌏 国外网站
     - DOMAIN-SUFFIX,slack.com,🌏 国外网站
     - DOMAIN-SUFFIX,slack-imgs.com,🌏 国外网站
-    - DOMAIN-SUFFIX,google.com,🌏 国外网站
     - DOMAIN-SUFFIX,tana.inc,🌏 国外网站
     - DOMAIN-SUFFIX,firebasedatabase.app,🌏 国外网站
     - DOMAIN-SUFFIX,openai.com,🌏 国外网站
     - DOMAIN-SUFFIX,rsms.me,🌏 国外网站
     - DOMAIN-SUFFIX,sentry.io,🌏 国外网站
     - DOMAIN-SUFFIX,transcend.io,🌏 国外网站
-    - DOMAIN-SUFFIX,dida365.com,🌏 国内网站
 
-    - DOMAIN-KEYWORD,notion,🌏 国外网站
-    - DOMAIN-KEYWORD,logseq,🌏 国外网站
-    - DOMAIN-KEYWORD,matomo,🌏 国外网站
-    - DOMAIN-KEYWORD,obsidian,🌏 国外网站
+    - DOMAIN-SUFFIX,dida365.com,🌏 国内网站

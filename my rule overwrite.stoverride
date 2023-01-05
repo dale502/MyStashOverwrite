@@ -1,5 +1,6 @@
 name: my在线规则覆写
 rules:
+    - DOMAIN-SUFFIX,azureedge.net,🌏 国外网站
     - DOMAIN-SUFFIX,plausible.io,🌏 国外网站
     - DOMAIN-KEYWORD,notion,🌏 国外网站
     - DOMAIN-KEYWORD,logseq,🌏 国外网站

@@ -11,16 +11,6 @@ rules:
     - DOMAIN-KEYWORD,matomo,🌏 国外网站
     - DOMAIN-KEYWORD,obsidian,🌏 国外网站
 
-    - DOMAIN-KEYWORD,-spotify-com,🌏 国内网站
-    - DOMAIN-KEYWORD,spotify.com,🌏 国内网站
-    - DOMAIN-SUFFIX,pscdn.co,🌏 国内网站
-    - DOMAIN-SUFFIX,scdn.co,🌏 国内网站
-    - DOMAIN-SUFFIX,spoti.fi,🌏 国内网站
-    - DOMAIN-SUFFIX,spotify.com,🌏 国内网站
-    - DOMAIN-SUFFIX,spotifycdn.net,🌏 国内网站
-    - DOMAIN-SUFFIX,spotilocal.com,🌏 国内网站
-    - IP-CIDR,35.186.224.47/32,🌏 国内网站,no-resolve
-
     - DOMAIN-SUFFIX,googleapis.com,🌏 国外网站
     - DOMAIN-SUFFIX,loggly.com,🌏 国外网站
     - DOMAIN-SUFFIX,segment.com,🌏 国外网站

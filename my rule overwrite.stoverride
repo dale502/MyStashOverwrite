@@ -1,10 +1,16 @@
 name: my在线规则覆写
 rules:
+    - DOMAIN-SUFFIX,azure.com,🌏 国外网站
+    - DOMAIN-SUFFIX,aspnetcdn.com,🌏 国外网站
+    - DOMAIN-SUFFIX,s-microsoft.com,🌏 国外网站
+    - DOMAIN-SUFFIX,live.com,🌏 国外网站
+    - DOMAIN-SUFFIX,gfx.ms,🌏 国外网站
     - DOMAIN-SUFFIX,microsoft.com,🌏 国外网站
     - DOMAIN-SUFFIX,msn.com,🌏 国外网站
     - DOMAIN-SUFFIX,bing.net,🌏 国外网站
     - DOMAIN-SUFFIX,bing.com,🌏 国外网站
     - DOMAIN-SUFFIX,azureedge.net,🌏 国外网站
+
     - DOMAIN-SUFFIX,plausible.io,🌏 国外网站
     - DOMAIN-KEYWORD,notion,🌏 国外网站
     - DOMAIN-KEYWORD,logseq,🌏 国外网站

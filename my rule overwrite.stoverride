@@ -1,5 +1,6 @@
 name: my在线规则覆写
 rules:
+    - DOMAIN-SUFFIX,freechatgpt.lol,🌏 国外网站
     - DOMAIN-SUFFIX,azure.com,🌏 国外网站
     - DOMAIN-SUFFIX,aspnetcdn.com,🌏 国外网站
     - DOMAIN-SUFFIX,s-microsoft.com,🌏 国外网站

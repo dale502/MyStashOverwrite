@@ -1,11 +1,11 @@
 name: spotify-代理rule
 rules:
-    - DOMAIN-KEYWORD,-spotify-com,🌏 国外网站
-    - DOMAIN-KEYWORD,spotify.com,🌏 国外网站
-    - DOMAIN-SUFFIX,pscdn.co,🌏 国外网站
-    - DOMAIN-SUFFIX,scdn.co,🌏 国外网站
-    - DOMAIN-SUFFIX,spoti.fi,🌏 国外网站
-    - DOMAIN-SUFFIX,spotify.com,🌏 国外网站
-    - DOMAIN-SUFFIX,spotifycdn.net,🌏 国外网站
-    - DOMAIN-SUFFIX,spotilocal.com,🌏 国外网站
-    - IP-CIDR,35.186.224.47/32,🌏 国外网站,no-resolve
+    - DOMAIN-KEYWORD,-spotify-com,🌎 全球代理
+    - DOMAIN-KEYWORD,spotify.com,🌎 全球代理
+    - DOMAIN-SUFFIX,pscdn.co,🌎 全球代理
+    - DOMAIN-SUFFIX,scdn.co,🌎 全球代理
+    - DOMAIN-SUFFIX,spoti.fi,🌎 全球代理
+    - DOMAIN-SUFFIX,spotify.com,🌎 全球代理
+    - DOMAIN-SUFFIX,spotifycdn.net,🌎 全球代理
+    - DOMAIN-SUFFIX,spotilocal.com,🌎 全球代理
+    - IP-CIDR,35.186.224.47/32,🌎 全球代理,no-resolve

@@ -1,5 +1,6 @@
 name: my在线规则覆写
 rules:
+    - DOMAIN-KEYWORD,msn,🌍 国外媒体
     - DOMAIN-KEYWORD,freechatgpt,🌍 国外媒体
     - DOMAIN-SUFFIX,azure.com,🌍 国外媒体
     - DOMAIN-SUFFIX,aspnetcdn.com,🌍 国外媒体

@@ -37,3 +37,4 @@ rules:
     - DOMAIN-SUFFIX,transcend.io,🌏 国外网站
 
     - DOMAIN-SUFFIX,dida365.com,DIRECT
+    - DOMAIN-SUFFIX,colube.cn,DIRECT

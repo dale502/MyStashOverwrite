@@ -1,5 +1,6 @@
 name: my在线规则覆写
 rules:
+    - DOMAIN-SUFFIX,theb.ai,🌏 国外网站
     - DOMAIN-KEYWORD,msn,🌏 国外网站
     - DOMAIN-KEYWORD,freechatgpt,🌏 国外网站
     - DOMAIN-SUFFIX,azure.com,🌏 国外网站

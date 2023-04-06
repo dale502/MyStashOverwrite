@@ -1,5 +1,6 @@
 name: my在线规则覆写
 rules:
+    - DOMAIN-SUFFIX,raycast.com,🌏 国外网站
     - DOMAIN-SUFFIX,civitai.com,🌏 国外网站
     - DOMAIN-SUFFIX,browserleaks.com,🌏 国外网站
     - DOMAIN-SUFFIX,vercel.app,🌏 国外网站

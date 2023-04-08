@@ -1,5 +1,6 @@
 name: my在线规则覆写
 rules:
+    - DOMAIN-SUFFIX,dmm.co.jp,🎬 日韩媒体
     - DOMAIN-SUFFIX,raycast.com,🌏 国外网站
     - DOMAIN-SUFFIX,civitai.com,🌏 国外网站
     - DOMAIN-SUFFIX,browserleaks.com,🌏 国外网站

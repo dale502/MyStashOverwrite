@@ -1,5 +1,13 @@
 name: my在线规则覆写
 rules:
+    - DOMAIN-SUFFIX,ai.com,🌏 国外网站
+    - DOMAIN-SUFFIX,chat.openai.com.cdn.cloudflare.net,🌏 国外网站
+    - DOMAIN-SUFFIX,compute-pipe.com,🌏 国外网站
+    - DOMAIN-SUFFIX,edgecompute.app,🌏 国外网站
+    - DOMAIN-SUFFIX,every1dns.net,🌏 国外网站
+    - DOMAIN-SUFFIX,sentry.io,🌏 国外网站
+    - DOMAIN-SUFFIX,openaiapi-site.azureedge.net,🌏 国外网站
+
     - DOMAIN-SUFFIX,perplexity.ai,🌏 国外网站
     - DOMAIN-SUFFIX,lol.fandom.com,🌏 国外网站
     - DOMAIN-SUFFIX,dmm.co.jp,🎬 日韩媒体

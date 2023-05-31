@@ -1,5 +1,7 @@
 name: my在线规则覆写
 rules:
+    - DOMAIN-KEYWORD,raindrop,🌏 国外网站
+    - DOMAIN-SUFFIX,rdl.ink,🌏 国外网站
     - DOMAIN-SUFFIX,ai.com,🌏 国外网站
     - DOMAIN-SUFFIX,chat.openai.com.cdn.cloudflare.net,🌏 国外网站
     - DOMAIN-SUFFIX,compute-pipe.com,🌏 国外网站

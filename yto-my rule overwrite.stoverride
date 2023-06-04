@@ -1,0 +1,58 @@
+name: my在线规则覆写
+rules:
+    - DOMAIN-KEYWORD,raindrop,Proxies
+    - DOMAIN-SUFFIX,rdl.ink,Proxies
+    - DOMAIN-SUFFIX,ai.com,Proxies
+    - DOMAIN-SUFFIX,chat.openai.com.cdn.cloudflare.net,Proxies
+    - DOMAIN-SUFFIX,compute-pipe.com,Proxies
+    - DOMAIN-SUFFIX,edgecompute.app,Proxies
+    - DOMAIN-SUFFIX,every1dns.net,Proxies
+    - DOMAIN-SUFFIX,sentry.io,Proxies
+    - DOMAIN-SUFFIX,openaiapi-site.azureedge.net,Proxies
+
+    - DOMAIN-SUFFIX,perplexity.ai,Proxies
+    - DOMAIN-SUFFIX,lol.fandom.com,Proxies
+    - DOMAIN-SUFFIX,dmm.co.jp,Proxies
+    - DOMAIN-SUFFIX,raycast.com,Proxies
+    - DOMAIN-SUFFIX,civitai.com,Proxies
+    - DOMAIN-SUFFIX,browserleaks.com,Proxies
+    - DOMAIN-SUFFIX,vercel.app,Proxies
+    - DOMAIN-SUFFIX,theb.ai,Proxies
+    - DOMAIN-KEYWORD,msn,Proxies
+    - DOMAIN-KEYWORD,freechatgpt,Proxies
+    - DOMAIN-SUFFIX,azure.com,Proxies
+    - DOMAIN-SUFFIX,aspnetcdn.com,Proxies
+    - DOMAIN-SUFFIX,s-microsoft.com,Proxies
+    - DOMAIN-SUFFIX,live.com,Proxies
+    - DOMAIN-SUFFIX,gfx.ms,Proxies
+    - DOMAIN-SUFFIX,microsoft.com,Proxies
+    - DOMAIN-SUFFIX,msn.com,Proxies
+    - DOMAIN-SUFFIX,bing.net,Proxies
+    - DOMAIN-SUFFIX,bing.com,Proxies
+    - DOMAIN-SUFFIX,azureedge.net,Proxies
+
+    - DOMAIN-SUFFIX,plausible.io,Proxies
+    - DOMAIN-KEYWORD,notion,Proxies
+    - DOMAIN-KEYWORD,logseq,Proxies
+    - DOMAIN-KEYWORD,matomo,Proxies
+    - DOMAIN-KEYWORD,obsidian,Proxies
+
+    - DOMAIN-SUFFIX,googleapis.com,Proxies
+    - DOMAIN-SUFFIX,loggly.com,Proxies
+    - DOMAIN-SUFFIX,segment.com,Proxies
+    - DOMAIN-SUFFIX,intercom.io,Proxies
+    - DOMAIN-SUFFIX,intercomcdn.com,Proxies
+    - DOMAIN-SUFFIX,amplitude.com,Proxies
+    - DOMAIN-SUFFIX,amazonaws.com,Proxies
+    - DOMAIN-SUFFIX,nearest-media-region.l.chime.aws,Proxies
+    - DOMAIN-SUFFIX,slack.com,Proxies
+    - DOMAIN-SUFFIX,slack-imgs.com,Proxies
+    - DOMAIN-SUFFIX,tana.inc,Proxies
+    - DOMAIN-SUFFIX,firebasedatabase.app,Proxies
+    - DOMAIN-SUFFIX,openai.com,Proxies
+    - DOMAIN-SUFFIX,rsms.me,Proxies
+    - DOMAIN-SUFFIX,sentry.io,Proxies
+    - DOMAIN-SUFFIX,transcend.io,Proxies
+
+    - DOMAIN-SUFFIX,dida365.com,DIRECT
+    - DOMAIN-SUFFIX,colube.cn,DIRECT

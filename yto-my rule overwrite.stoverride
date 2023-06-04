@@ -1,4 +1,4 @@
-name: my在线规则覆写
+name: yto-my在线规则覆写
 rules:
     - DOMAIN-KEYWORD,raindrop,Proxies
     - DOMAIN-SUFFIX,rdl.ink,Proxies

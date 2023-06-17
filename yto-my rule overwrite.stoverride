@@ -1,5 +1,16 @@
 name: yto-my在线规则覆写
 rules:
+    - DOMAIN,challenges.cloudflare.com,🇸🇬 高级 专线 狮城 01
+    - DOMAIN,events.statsigapi.net,🇸🇬 高级 专线 狮城 01
+    - DOMAIN,featuregates.org,🇸🇬 高级 专线 狮城 01
+    - DOMAIN,o33249.ingest.sentry.io,🇸🇬 高级 专线 狮城 01
+    - DOMAIN,openaiapi-site.azureedge.net,🇸🇬 高级 专线 狮城 01
+    - DOMAIN-SUFFIX,ai.com,🇸🇬 高级 专线 狮城 01
+    - DOMAIN-SUFFIX,auth0.com,🇸🇬 高级 专线 狮城 01
+    - DOMAIN-SUFFIX,identrust.com,🇸🇬 高级 专线 狮城 01
+    - DOMAIN-SUFFIX,intercom.io,🇸🇬 高级 专线 狮城 01
+    - DOMAIN-SUFFIX,openai.com,🇸🇬 高级 专线 狮城 01
+
     - DOMAIN-KEYWORD,raindrop,Proxies
     - DOMAIN-SUFFIX,rdl.ink,Proxies
 

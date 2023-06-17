@@ -25,7 +25,7 @@ rules:
     - DOMAIN-SUFFIX,azureedge.net,Proxies
 
     - DOMAIN-SUFFIX,plausible.io,Proxies
-    - DOMAIN-KEYWORD,notion,Proxies
+    - DOMAIN-KEYWORD,notion,🇨🇳 标准 专线 台湾 01,🇸🇬 标准 专线 狮城 01
     - DOMAIN-KEYWORD,logseq,Proxies
     - DOMAIN-KEYWORD,matomo,Proxies
     - DOMAIN-KEYWORD,obsidian,Proxies
@@ -36,7 +36,7 @@ rules:
     - DOMAIN-SUFFIX,intercom.io,Proxies
     - DOMAIN-SUFFIX,intercomcdn.com,Proxies
     - DOMAIN-SUFFIX,amplitude.com,Proxies
-    - DOMAIN-SUFFIX,amazonaws.com,Proxies
+    - DOMAIN-SUFFIX,amazonaws.com,🇨🇳 标准 专线 台湾 01,🇸🇬 标准 专线 狮城 01
     - DOMAIN-SUFFIX,nearest-media-region.l.chime.aws,Proxies
     - DOMAIN-SUFFIX,slack.com,Proxies
     - DOMAIN-SUFFIX,slack-imgs.com,Proxies

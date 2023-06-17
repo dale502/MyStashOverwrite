@@ -25,7 +25,7 @@ rules:
     - DOMAIN-SUFFIX,azureedge.net,Proxies
 
     - DOMAIN-SUFFIX,plausible.io,Proxies
-    - DOMAIN-KEYWORD,notion,🇨🇳 标准 专线 台湾 01,🇸🇬 标准 专线 狮城 01
+    - DOMAIN-KEYWORD,notion,Proxies
     - DOMAIN-KEYWORD,logseq,Proxies
     - DOMAIN-KEYWORD,matomo,Proxies
     - DOMAIN-KEYWORD,obsidian,Proxies

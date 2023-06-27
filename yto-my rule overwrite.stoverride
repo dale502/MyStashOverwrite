@@ -11,6 +11,7 @@ rules:
     - DOMAIN-SUFFIX,intercom.io,🇸🇬 高级 专线 狮城 01
     - DOMAIN-SUFFIX,openai.com,🇸🇬 高级 专线 狮城 01
 
+    - DOMAIN-KEYWORD,peakpx.com,Proxies
     - DOMAIN-KEYWORD,raindrop,Proxies
     - DOMAIN-SUFFIX,rdl.ink,Proxies
 
